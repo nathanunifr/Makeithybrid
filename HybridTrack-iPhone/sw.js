@@ -1,4 +1,4 @@
-const CACHE='hybridtrack-static-v1';
+const CACHE='makeithybrid-static-v2';
 const FILES=['./','./index.html','./src/styles.css','./src/app.mjs','./src/utils.mjs','./src/store.mjs','./public/programme.json','./public/icon.svg','./public/icon-apple.png','./manifest.webmanifest'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))),self.clients.claim()]));});
