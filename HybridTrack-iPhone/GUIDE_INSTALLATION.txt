@@ -1,0 +1,16 @@
+HYBRIDTRACK — INSTALLATION SUR IPHONE
+===================================
+
+1) Télécharger « HybridTrack-iPhone.zip » sur ton ordinateur.
+2) Ouvrir https://app.netlify.com/drop.
+3) Glisser le ZIP dans la fenêtre : un lien https://...netlify.app sera créé.
+4) Ouvrir ce lien sur l'iPhone dans Safari.
+5) Safari → Partager → Sur l'écran d'accueil → Ouvrir comme app web → Ajouter.
+6) Dans l'app : Planning → choisir la séance → Commencer.
+
+IMPORTANT : Les performances sont sauvées dans le navigateur du téléphone,
+pas dans Netlify. Pour une sauvegarde externe : Profil → Exporter JSON.
+
+Si l'application est mise à jour, conserver la même URL Netlify.
+
+Guide détaillé : README.md dans ce ZIP.

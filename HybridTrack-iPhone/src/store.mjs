@@ -1,0 +1,4 @@
+const DB_NAME='hybridtrack-db';const STORE='state';const KEY='hybridtrack-v1';
+export function openDB(){return new Promise((resolve,reject)=>{if(!('indexedDB' in window))return reject(new Error('IndexedDB indisponible'));const req=indexedDB.open(DB_NAME,1);req.onupgradeneeded=()=>{if(!req.result.objectStoreNames.contains(STORE))req.result.createObjectStore(STORE);};req.onsuccess=()=>resolve(req.result);req.onerror=()=>reject(req.error);});}
+export async function loadState(){const db=await openDB();try{return await new Promise((res,rej)=>{const tx=db.transaction(STORE,'readonly'),req=tx.objectStore(STORE).get(KEY);req.onsuccess=()=>res(req.result||null);req.onerror=()=>rej(req.error);});}finally{db.close();}}
+export async function saveState(s){const db=await openDB();try{return await new Promise((res,rej)=>{const tx=db.transaction(STORE,'readwrite');tx.objectStore(STORE).put(s,KEY);tx.oncomplete=()=>res(true);tx.onerror=()=>rej(tx.error);});}finally{db.close();}}

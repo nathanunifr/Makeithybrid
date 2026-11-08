@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "programme-s1-lundi",
+    "week": 1,
+    "date": "2026-11-09",
+    "title": "Haut du corps A",
+    "type": "force",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Reapprendre les mouvements de poussee et de tirage.",
+    "advice": "Échauffement : 5 min de velo + 1 série très légère des deux premiers exercices. Repos 60-90 s.",
+    "weekTheme": "Reprise sans courbatures inutiles",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-1-lundi-1",
+        "name": "Chest press (machine)",
+        "volume": "2 x 12",
+        "load": "15-35 kg*",
+        "description": "Dos contre le dossier; pousser sans decoller les épaules.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-lundi-2",
+        "name": "Tirage vertical",
+        "volume": "2 x 12",
+        "load": "20-45 kg*",
+        "description": "Tirer vers le haut de la poitrine; coudes vers les côtés.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-lundi-3",
+        "name": "Développé incline halteres",
+        "volume": "2 x 10",
+        "load": "8-14 kg / main",
+        "description": "Banc a 20-30 degres; halteres au-dessus du buste.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-lundi-4",
+        "name": "Rowing assis a la poulie",
+        "volume": "2 x 12",
+        "load": "20-40 kg*",
+        "description": "Buste stable; ramener les coudes en arrière.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-lundi-5",
+        "name": "Elevations laterales",
+        "volume": "2 x 12",
+        "load": "3-7 kg / main",
+        "description": "Bras légèrement fléchis; monter a hauteur des épaules.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-lundi-6",
+        "name": "Triceps corde poulie",
+        "volume": "2 x 12",
+        "load": "8-20 kg*",
+        "description": "Coudes fixes contre les côtés; tendre les avant-bras.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s1-mardi",
+    "week": 1,
+    "date": "2026-11-10",
+    "title": "Cardio montée + centre du corps",
+    "type": "cardio",
+    "durationLabel": "40-45 min",
+    "durationMin": 42,
+    "description": "Tout en aisance respiratoire, pas de fractionne intense.",
+    "advice": "Si tu préfères : 25-30 min de course très facile a la place de la montée.",
+    "weekTheme": "Reprise sans courbatures inutiles",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-1-mardi-1",
+        "name": "Tapis : marche facile",
+        "volume": "6 min",
+        "load": "0-2 % / 4,5-5,5 km/h",
+        "description": "Marcher en augmentant graduellement la cadence.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-mardi-2",
+        "name": "Tapis : montées",
+        "volume": "3 x (5 + 2 min)",
+        "load": "5 min a 5-8 % puis 2 min a 0-2 %",
+        "description": "RPE 4-5/10; vitesse adaptee, ne pas se tenir.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-mardi-3",
+        "name": "Tapis : retour au calme",
+        "volume": "4 min",
+        "load": "0 %",
+        "description": "Marcher doucement jusqu'au retour d'un souffle calme.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-mardi-4",
+        "name": "Planche avant",
+        "volume": "2 x 30 s",
+        "load": "poids du corps",
+        "description": "Bassin aligné, fessiers serres; respirer naturellement.",
+        "sets": 2,
+        "reps": 30,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-mardi-5",
+        "name": "Dead bug",
+        "volume": "2 x 8 / côté",
+        "load": "poids du corps",
+        "description": "Bas du dos stable; tendre bras/jambe opposes lentement.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-mardi-6",
+        "name": "Pallof press",
+        "volume": "2 x 10 / côté",
+        "load": "5-12 kg*",
+        "description": "Pousser la poignee devant soi sans tourner le buste.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s1-jeudi",
+    "week": 1,
+    "date": "2026-11-12",
+    "title": "Bas du corps A",
+    "type": "force",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Relancer les jambes sans les charger excessivement.",
+    "advice": "Repos 90-120 s sur presse et souleve roumain. Samedi : ski libre, selon récupération.",
+    "weekTheme": "Reprise sans courbatures inutiles",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-1-jeudi-1",
+        "name": "Presse a jambes",
+        "volume": "2 x 12",
+        "load": "variable selon machine",
+        "description": "Pieds largeur épaules; descendre sans arrondir le bassin.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-jeudi-2",
+        "name": "Souleve de terre roumain",
+        "volume": "2 x 10",
+        "load": "10-18 kg / main",
+        "description": "Hanches vers l'arrière, dos neutre, halteres pres des jambes.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-jeudi-3",
+        "name": "Step-up sur banc bas",
+        "volume": "2 x 8 / jambe",
+        "load": "0-8 kg / main",
+        "description": "Monter en poussant sur le pied posé sur le banc.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Plier les genoux sans decoller le bassin du siege.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "2 x 15",
+        "load": "poids du corps, puis +",
+        "description": "Monter sur les pointes puis redescendre lentement.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-1-jeudi-6",
+        "name": "Planche laterale",
+        "volume": "2 x 25 s / côté",
+        "load": "poids du corps",
+        "description": "Coude sous l'épaule; bassin maintenu en hauteur.",
+        "sets": 2,
+        "reps": 25,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s2-lundi",
+    "week": 2,
+    "date": "2026-11-16",
+    "title": "Haut du corps B",
+    "type": "force",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Alterner les angles et les prises.",
+    "advice": "Compare les sensations avec la semaine 1; augmente seulement si la technique reste propre.",
+    "weekTheme": "Plus de fluidité et de confiance",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-2-lundi-1",
+        "name": "Développé couche halteres",
+        "volume": "2 x 10",
+        "load": "8-16 kg / main",
+        "description": "Allonge sur banc plat; avant-bras presque verticaux.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-lundi-2",
+        "name": "Rowing assis poulie",
+        "volume": "2 x 10",
+        "load": "20-40 kg*",
+        "description": "Amener les mains vers les côtés; éviter de basculer.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-lundi-3",
+        "name": "Développé épaules halteres",
+        "volume": "2 x 10",
+        "load": "6-12 kg / main",
+        "description": "Pousser au-dessus de la tete sans cambrer.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-lundi-4",
+        "name": "Tirage vertical",
+        "volume": "2 x 12",
+        "load": "20-45 kg*",
+        "description": "Descendre les coudes vers les hanches, nuque longue.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-lundi-5",
+        "name": "Curl marteau",
+        "volume": "2 x 12",
+        "load": "6-12 kg / main",
+        "description": "Paumes face a face; ne pas balancer le corps.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-lundi-6",
+        "name": "Triceps corde poulie",
+        "volume": "2 x 12",
+        "load": "8-20 kg*",
+        "description": "Tendre les coudes sans pousser les épaules en avant.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s2-mardi",
+    "week": 2,
+    "date": "2026-11-17",
+    "title": "Cardio mixte + centre du corps",
+    "type": "cardio",
+    "durationLabel": "40-45 min",
+    "durationMin": 42,
+    "description": "Changer d'allure sans chercher la performance.",
+    "advice": "Alternative : 30 min de velo ou d'elliptique a RPE 4-5.",
+    "weekTheme": "Plus de fluidité et de confiance",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-2-mardi-1",
+        "name": "Tapis : échauffement",
+        "volume": "6 min",
+        "load": "0-1 %",
+        "description": "Marche rapide, puis trot très facile si a l'aise.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-mardi-2",
+        "name": "Tapis : blocs varies",
+        "volume": "3 x (4 + 3 min)",
+        "load": "4 min jogging facile + 3 min marche inclinee 5-7 %",
+        "description": "RPE 4-5/10, respiration confortable.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-mardi-3",
+        "name": "Tapis : retour au calme",
+        "volume": "5 min",
+        "load": "0 %",
+        "description": "Marche facile.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-mardi-4",
+        "name": "Reverse crunch",
+        "volume": "2 x 10",
+        "load": "poids du corps",
+        "description": "Enrouler doucement le bassin, sans lancer les jambes.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-mardi-5",
+        "name": "Bird dog",
+        "volume": "2 x 8 / côté",
+        "load": "poids du corps",
+        "description": "A quatre pattes, tendre bras et jambe opposes.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-mardi-6",
+        "name": "Pallof press",
+        "volume": "2 x 10 / côté",
+        "load": "5-12 kg*",
+        "description": "Garder les hanches orientees vers l'avant.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s2-jeudi",
+    "week": 2,
+    "date": "2026-11-19",
+    "title": "Bas du corps B",
+    "type": "force",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Nouvelle variante de squat et contrôle de la descente.",
+    "advice": "Pas de charge sur les step-downs. Si courbatures fortes : supprimer les step-downs.",
+    "weekTheme": "Plus de fluidité et de confiance",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-2-jeudi-1",
+        "name": "Goblet squat",
+        "volume": "2 x 10",
+        "load": "10-20 kg total",
+        "description": "Haltere contre la poitrine; s'asseoir entre les hanches.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-jeudi-2",
+        "name": "Presse a jambes",
+        "volume": "2 x 10",
+        "load": "variable selon machine",
+        "description": "Amplitude confortable, sans verrouiller violemment.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-jeudi-3",
+        "name": "Souleve de terre roumain",
+        "volume": "2 x 10",
+        "load": "10-18 kg / main",
+        "description": "Genoux souples, reculer les fesses.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-jeudi-4",
+        "name": "Step-down bas",
+        "volume": "2 x 8 / jambe",
+        "load": "poids du corps",
+        "description": "Depuis une marche basse, toucher le sol sans tomber.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-jeudi-5",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Mouvement lent et contrôle.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-2-jeudi-6",
+        "name": "Mollets debout",
+        "volume": "2 x 15",
+        "load": "poids du corps, puis +",
+        "description": "Pause courte en haut; descente en 2 secondes.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s3-lundi",
+    "week": 3,
+    "date": "2026-11-23",
+    "title": "Haut du corps C",
+    "type": "force",
+    "durationLabel": "50-55 min",
+    "durationMin": 52,
+    "description": "Introduire un exercice de reference pour mesurer les progrès.",
+    "advice": "Sur le développé couche, garde 3 répétitions en réserve et prends si possible des sécurités.",
+    "weekTheme": "Premiers intervalles + 4e séance",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-3-lundi-1",
+        "name": "Développé couche barre",
+        "volume": "3 x 8",
+        "load": "20-40 kg total",
+        "description": "Pieds stables, omoplates serrees; barre vers le sternum.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-lundi-2",
+        "name": "Tirage vertical",
+        "volume": "3 x 10",
+        "load": "20-45 kg*",
+        "description": "Pas d'elan; ramener les coudes vers le bas.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-lundi-3",
+        "name": "Développé incline halteres",
+        "volume": "2 x 10",
+        "load": "8-14 kg / main",
+        "description": "Descendre lentement, puis pousser sans claquer.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-lundi-4",
+        "name": "Rowing un bras haltere",
+        "volume": "2 x 10 / bras",
+        "load": "10-20 kg / main",
+        "description": "Une main en appui; tirer le coude vers la hanche.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-lundi-5",
+        "name": "Elevations laterales",
+        "volume": "2 x 12",
+        "load": "3-7 kg / main",
+        "description": "Mouvement controlé, pas d'elan.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-lundi-6",
+        "name": "Curl biceps halteres",
+        "volume": "2 x 10",
+        "load": "6-12 kg / main",
+        "description": "Coudes proches du buste, paumes vers le haut.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s3-mardi",
+    "week": 3,
+    "date": "2026-11-24",
+    "title": "Intervalles sur tapis #1",
+    "type": "cardio",
+    "durationLabel": "40-45 min",
+    "durationMin": 42,
+    "description": "Premiers efforts plus rapides; aucune obligation de sprinter.",
+    "advice": "Vitesse initiale indicative des minutes rapides : 9-12 km/h, uniquement si RPE 7.",
+    "weekTheme": "Premiers intervalles + 4e séance",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-3-mardi-1",
+        "name": "Échauffement tapis",
+        "volume": "10 min",
+        "load": "1 % / facile",
+        "description": "5 min marche-vite puis 5 min jogging léger.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-mardi-2",
+        "name": "Fractionne 1:2",
+        "volume": "6 x (1 + 2 min)",
+        "load": "1 min RPE 7/10; 2 min RPE 2-3",
+        "description": "Courir dynamique, récupérer en trot/marche.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-mardi-3",
+        "name": "Retour au calme",
+        "volume": "6 min",
+        "load": "0-1 %",
+        "description": "Jogging très doux ou marche.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-mardi-4",
+        "name": "Crunch poulie",
+        "volume": "2 x 12",
+        "load": "8-20 kg*",
+        "description": "Enrouler le buste; ne pas tirer avec les bras.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-mardi-5",
+        "name": "Pallof press",
+        "volume": "2 x 10 / côté",
+        "load": "5-12 kg*",
+        "description": "Garder tronc et bassin face a la poulie.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s3-jeudi",
+    "week": 3,
+    "date": "2026-11-26",
+    "title": "Bas du corps C",
+    "type": "force",
+    "durationLabel": "50 min",
+    "durationMin": 50,
+    "description": "Retour des charges un peu plus stimulantes.",
+    "advice": "Si samedi = ski intensif, allege cette séance ou supprime le step-up.",
+    "weekTheme": "Premiers intervalles + 4e séance",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-3-jeudi-1",
+        "name": "Presse a jambes",
+        "volume": "3 x 10",
+        "load": "variable selon machine",
+        "description": "Pousser a travers tout le pied.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-jeudi-2",
+        "name": "Souleve de terre roumain",
+        "volume": "3 x 8",
+        "load": "10-18 kg / main",
+        "description": "Descendre tant que le dos reste neutre.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-jeudi-3",
+        "name": "Step-up avec halteres",
+        "volume": "2 x 8 / jambe",
+        "load": "0-8 kg / main",
+        "description": "Banc bas a moyen; bassin de face.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Contrôler toute la phase de retour.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "2 x 12",
+        "load": "poids du corps, puis +",
+        "description": "Grande amplitude sans rebond.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-jeudi-6",
+        "name": "Planche avant",
+        "volume": "2 x 40 s",
+        "load": "poids du corps",
+        "description": "Corps en ligne et respiration continue.",
+        "sets": 2,
+        "reps": 40,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s3-vendredi",
+    "week": 3,
+    "date": "2026-11-27",
+    "title": "Full body léger A",
+    "type": "mixte",
+    "durationLabel": "45 min",
+    "durationMin": 45,
+    "description": "Séance complementaire, sans épuisement avant le week-end.",
+    "advice": "Option fatigue : faire uniquement les 4 premiers exercices puis rentrer.",
+    "weekTheme": "Premiers intervalles + 4e séance",
+    "day": "VENDREDI",
+    "exercises": [
+      {
+        "id": "ex-3-vendredi-1",
+        "name": "Tractions assistées",
+        "volume": "2 x 8",
+        "load": "assistance a ajuster",
+        "description": "Monter la poitrine, descendre avec contrôle.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-vendredi-2",
+        "name": "Pompes",
+        "volume": "2 x 8-12",
+        "load": "poids du corps",
+        "description": "Gainage solide; mains sous/legerement hors épaules.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": 12
+      },
+      {
+        "id": "ex-3-vendredi-3",
+        "name": "Pont fessier / glute bridge",
+        "volume": "2 x 12",
+        "load": "poids du corps / 10-25 kg",
+        "description": "Pousser le bassin avec les talons sans cambrer.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-vendredi-4",
+        "name": "Face pull poulie",
+        "volume": "2 x 12",
+        "load": "8-20 kg*",
+        "description": "Tirer la corde vers le front, coudes hauts.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-vendredi-5",
+        "name": "Farmer carry",
+        "volume": "2 x 30 m",
+        "load": "12-22 kg / main",
+        "description": "Marcher grand, halteres de chaque côté, tronc stable.",
+        "sets": 2,
+        "reps": 30,
+        "repsMax": null
+      },
+      {
+        "id": "ex-3-vendredi-6",
+        "name": "Velo facile",
+        "volume": "12 min",
+        "load": "RPE 3-4/10",
+        "description": "Finir frais, sans intervalles.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s4-lundi",
+    "week": 4,
+    "date": "2026-11-30",
+    "title": "Haut du corps D",
+    "type": "force",
+    "durationLabel": "50 min",
+    "durationMin": 50,
+    "description": "Machines et halteres pour travailler sans fatigue nerveuse excessive.",
+    "advice": "Si le chest press est facile sur toutes les séries : +1 increment la prochaine fois.",
+    "weekTheme": "Varier les angles et la montée",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-4-lundi-1",
+        "name": "Chest press (machine)",
+        "volume": "3 x 10",
+        "load": "15-35 kg*",
+        "description": "Pousser dans l'axe de la poitrine, omoplates placees.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-lundi-2",
+        "name": "Rowing poulie",
+        "volume": "3 x 10",
+        "load": "20-40 kg*",
+        "description": "Tronc stable, coudes pres du corps.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-lundi-3",
+        "name": "Développé épaules halteres",
+        "volume": "2 x 10",
+        "load": "6-12 kg / main",
+        "description": "Ne pas cambrer le bas du dos.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-lundi-4",
+        "name": "Tirage vertical prise neutre",
+        "volume": "2 x 10",
+        "load": "20-45 kg*",
+        "description": "Tirer les coudes vers les flancs.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-lundi-5",
+        "name": "Oiseau halteres",
+        "volume": "2 x 12",
+        "load": "3-7 kg / main",
+        "description": "Pencher le buste, écarter les bras sans hausser les épaules.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-lundi-6",
+        "name": "Curl poulie",
+        "volume": "2 x 12",
+        "load": "8-18 kg*",
+        "description": "Coudes immobiles, mouvement sans elan.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s4-mardi",
+    "week": 4,
+    "date": "2026-12-01",
+    "title": "Montées fractionnees",
+    "type": "cardio",
+    "durationLabel": "40-45 min",
+    "durationMin": 42,
+    "description": "Faire varier le dénivelé sans vitesse de course élevée.",
+    "advice": "Vitesse de montée souvent 4,5-6 km/h; choisis selon la pente et ton souffle.",
+    "weekTheme": "Varier les angles et la montée",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-4-mardi-1",
+        "name": "Échauffement tapis",
+        "volume": "7 min",
+        "load": "0-2 %",
+        "description": "Marche rapide progressive.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-mardi-2",
+        "name": "Blocs de montée",
+        "volume": "4 x (4 + 2 min)",
+        "load": "4 min a 7-11 %; 2 min a 1-2 %",
+        "description": "RPE 5-6 dans les montées, 2-3 en récupération.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-mardi-3",
+        "name": "Retour au calme",
+        "volume": "5 min",
+        "load": "0 %",
+        "description": "Marche souple.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-mardi-4",
+        "name": "Dead bug",
+        "volume": "2 x 10 / côté",
+        "load": "poids du corps",
+        "description": "Ne pas laisser le bas du dos se creuser.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-mardi-5",
+        "name": "Planche laterale",
+        "volume": "2 x 30 s / côté",
+        "load": "poids du corps",
+        "description": "Hanches alignées, cou long.",
+        "sets": 2,
+        "reps": 30,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s4-jeudi",
+    "week": 4,
+    "date": "2026-12-03",
+    "title": "Bas du corps D",
+    "type": "force",
+    "durationLabel": "50-55 min",
+    "durationMin": 52,
+    "description": "Variante dominante fessiers + contrôle unilateral.",
+    "advice": "Si le ski est prévu samedi, retirer les step-downs et faire 2 séries de hip thrust.",
+    "weekTheme": "Varier les angles et la montée",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-4-jeudi-1",
+        "name": "Goblet squat",
+        "volume": "3 x 10",
+        "load": "10-20 kg total",
+        "description": "Haltere verticale au torse, pieds bien au sol.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-jeudi-2",
+        "name": "Hip thrust",
+        "volume": "3 x 10",
+        "load": "20-50 kg total",
+        "description": "Haut du dos sur banc, pousser le bassin; côtés basses.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-jeudi-3",
+        "name": "Fente arrière",
+        "volume": "2 x 8 / jambe",
+        "load": "0-8 kg / main",
+        "description": "Grand pas en arrière; genou avant suit les orteils.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Plier puis revenir en 2 secondes.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "3 x 12",
+        "load": "poids du corps, puis +",
+        "description": "Pause en haut, talons descendent librement.",
+        "sets": 3,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-jeudi-6",
+        "name": "Step-down bas",
+        "volume": "2 x 8 / jambe",
+        "load": "poids du corps",
+        "description": "Descente très lente, bassin horizontal.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s4-vendredi",
+    "week": 4,
+    "date": "2026-12-04",
+    "title": "Full body léger B",
+    "type": "mixte",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Stimuler sans creer de grosses courbatures.",
+    "advice": "Ski prévu ? Supprimer la presse ou reduire a une seule série.",
+    "weekTheme": "Varier les angles et la montée",
+    "day": "VENDREDI",
+    "exercises": [
+      {
+        "id": "ex-4-vendredi-1",
+        "name": "Développé couche halteres",
+        "volume": "2 x 12",
+        "load": "8-16 kg / main",
+        "description": "Abaisser a une amplitude confortable.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-vendredi-2",
+        "name": "Rowing un bras",
+        "volume": "2 x 12 / bras",
+        "load": "10-20 kg / main",
+        "description": "Tirer coude vers hanche sans pivoter.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-vendredi-3",
+        "name": "Presse jambes légère",
+        "volume": "2 x 15",
+        "load": "variable selon machine",
+        "description": "Rester loin de l'échec; fluidite.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-vendredi-4",
+        "name": "Elevations laterales",
+        "volume": "2 x 15",
+        "load": "3-7 kg / main",
+        "description": "Monter sans secouer le haut du corps.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-vendredi-5",
+        "name": "Pallof press",
+        "volume": "2 x 12 / côté",
+        "load": "5-12 kg*",
+        "description": "Garder les hanches fixes.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-4-vendredi-6",
+        "name": "Elliptique",
+        "volume": "15 min",
+        "load": "RPE 3-4/10",
+        "description": "Foulee fluide, aisance respiratoire.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s5-lundi",
+    "week": 5,
+    "date": "2026-12-07",
+    "title": "Haut du corps E",
+    "type": "force",
+    "durationLabel": "55 min",
+    "durationMin": 55,
+    "description": "Progresser sur les exercices de reference.",
+    "advice": "Progression = 1 répétition de plus par série OU légèrement plus lourd, pas les deux a tout prix.",
+    "weekTheme": "Nouvel élan : force + fractionné",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-5-lundi-1",
+        "name": "Développé couche barre",
+        "volume": "3 x 8-10",
+        "load": "20-40 kg total",
+        "description": "A partir de la charge de S3; conserver la trajectoire.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": 10
+      },
+      {
+        "id": "ex-5-lundi-2",
+        "name": "Tirage vertical",
+        "volume": "3 x 10",
+        "load": "20-45 kg*",
+        "description": "Coudes vers le bas, épaules loin des oreilles.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-lundi-3",
+        "name": "Développé incline halteres",
+        "volume": "3 x 10",
+        "load": "8-14 kg / main",
+        "description": "Abaisser avec contrôle puis pousser.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-lundi-4",
+        "name": "Rowing assis",
+        "volume": "2 x 10",
+        "load": "20-40 kg*",
+        "description": "Buste ne bouge presque pas.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-lundi-5",
+        "name": "Elevations laterales",
+        "volume": "2 x 15",
+        "load": "3-7 kg / main",
+        "description": "Petite charge mais execution propre.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-lundi-6",
+        "name": "Curl + triceps corde",
+        "volume": "2 x 12 chacun",
+        "load": "6-12 kg / main / 8-20 kg*",
+        "description": "Alterner curl et triceps avec 45-60 s entre mouvements.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s5-mardi",
+    "week": 5,
+    "date": "2026-12-08",
+    "title": "Intervalles sur tapis #2",
+    "type": "cardio",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Efforts un peu plus longs que S3.",
+    "advice": "Vitesse indicative : 9-12 km/h, voire moins ou plus selon RPE reel.",
+    "weekTheme": "Nouvel élan : force + fractionné",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-5-mardi-1",
+        "name": "Échauffement tapis",
+        "volume": "8 min",
+        "load": "1 %",
+        "description": "Marche puis jogging de plus en plus fluide.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-mardi-2",
+        "name": "Fractionne 2:2",
+        "volume": "5 x (2 + 2 min)",
+        "load": "2 min RPE 7-8; 2 min RPE 2-3",
+        "description": "Course soutenue, sans terminer a bout de souffle.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-mardi-3",
+        "name": "Retour au calme",
+        "volume": "7 min",
+        "load": "0-1 %",
+        "description": "Jogging doux puis marche.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-mardi-4",
+        "name": "Planche avant",
+        "volume": "2 x 45 s",
+        "load": "poids du corps",
+        "description": "Tenir sans cambrer.",
+        "sets": 2,
+        "reps": 45,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-mardi-5",
+        "name": "Relevés de genoux",
+        "volume": "2 x 10",
+        "load": "poids du corps",
+        "description": "Suspendu ou sur appuis; bassin s'enroule doucement.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-mardi-6",
+        "name": "Bird dog",
+        "volume": "2 x 10 / côté",
+        "load": "poids du corps",
+        "description": "Tendre oppose, éviter de tourner le bassin.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s5-jeudi",
+    "week": 5,
+    "date": "2026-12-10",
+    "title": "Bas du corps E",
+    "type": "force",
+    "durationLabel": "55 min",
+    "durationMin": 55,
+    "description": "Progression modérée vers plus de force.",
+    "advice": "Nouvel exercice (bulgare) : commence sans halteres. Ski samedi = retirer le step-down.",
+    "weekTheme": "Nouvel élan : force + fractionné",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-5-jeudi-1",
+        "name": "Presse a jambes",
+        "volume": "3 x 8-10",
+        "load": "variable selon machine",
+        "description": "Pieds stables, descente contrôlée.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": 10
+      },
+      {
+        "id": "ex-5-jeudi-2",
+        "name": "Souleve de terre roumain",
+        "volume": "3 x 10",
+        "load": "10-18 kg / main",
+        "description": "Sentir les ischios, pas le bas du dos.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-jeudi-3",
+        "name": "Squat bulgare",
+        "volume": "2 x 8 / jambe",
+        "load": "0-8 kg / main",
+        "description": "Pied arrière en appui sur banc bas; descente verticale.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Sans elan, retour lent.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "3 x 12",
+        "load": "poids du corps, puis +",
+        "description": "Monter a fond et descendre lentement.",
+        "sets": 3,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-jeudi-6",
+        "name": "Step-down bas",
+        "volume": "2 x 8 / jambe",
+        "load": "poids du corps",
+        "description": "Descente sur 2-3 secondes, marche basse.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s5-vendredi",
+    "week": 5,
+    "date": "2026-12-11",
+    "title": "Full body léger C",
+    "type": "mixte",
+    "durationLabel": "45 min",
+    "durationMin": 45,
+    "description": "Plaisir + entretien du corps entier.",
+    "advice": "L'objectif est de sortir en ayant encore envie de bouger.",
+    "weekTheme": "Nouvel élan : force + fractionné",
+    "day": "VENDREDI",
+    "exercises": [
+      {
+        "id": "ex-5-vendredi-1",
+        "name": "Tractions assistées",
+        "volume": "2 x 8",
+        "load": "assistance a ajuster",
+        "description": "Ajuster l'aide pour garder 2-3 répétitions de marge.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-vendredi-2",
+        "name": "Développé épaules halteres",
+        "volume": "2 x 10",
+        "load": "6-12 kg / main",
+        "description": "Coudes légèrement devant les épaules.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-vendredi-3",
+        "name": "Glute bridge",
+        "volume": "2 x 12",
+        "load": "poids du corps / 10-25 kg",
+        "description": "Pousser les hanches sans cambrer.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-vendredi-4",
+        "name": "Face pull",
+        "volume": "2 x 15",
+        "load": "8-20 kg*",
+        "description": "Tirer vers le front, omoplates mobiles.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-vendredi-5",
+        "name": "Farmer carry",
+        "volume": "3 x 30 m",
+        "load": "12-22 kg / main",
+        "description": "Allure lente, maintien droit.",
+        "sets": 3,
+        "reps": 30,
+        "repsMax": null
+      },
+      {
+        "id": "ex-5-vendredi-6",
+        "name": "Velo facile",
+        "volume": "12 min",
+        "load": "RPE 3-4/10",
+        "description": "Cadence naturelle, souffle facile.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s6-lundi",
+    "week": 6,
+    "date": "2026-12-14",
+    "title": "Haut du corps F",
+    "type": "force",
+    "durationLabel": "50 min",
+    "durationMin": 50,
+    "description": "Angles différents et stabilité.",
+    "advice": "Les ecartés : amplitude confortable, charge légère, pas de douleur d'épaule.",
+    "weekTheme": "Consolider le moteur aérobie",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-6-lundi-1",
+        "name": "Développé couche halteres",
+        "volume": "3 x 10",
+        "load": "8-16 kg / main",
+        "description": "Garder la même trajectoire a chaque répétition.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-lundi-2",
+        "name": "Rowing un bras haltere",
+        "volume": "3 x 10 / bras",
+        "load": "10-20 kg / main",
+        "description": "Hanche et tronc restent de face.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-lundi-3",
+        "name": "Développé épaules halteres",
+        "volume": "2 x 10",
+        "load": "6-12 kg / main",
+        "description": "Dos neutre, pas d'elan.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-lundi-4",
+        "name": "Tirage vertical neutre",
+        "volume": "2 x 10",
+        "load": "20-45 kg*",
+        "description": "Poitrine ouverte, coudes vers les flancs.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-lundi-5",
+        "name": "Écartés a la poulie",
+        "volume": "2 x 12",
+        "load": "5-12 kg / côté*",
+        "description": "Coudes souples, mains se rapprochent devant soi.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-lundi-6",
+        "name": "Curl marteau",
+        "volume": "2 x 12",
+        "load": "6-12 kg / main",
+        "description": "Poignets neutres; bras le long du corps.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s6-mardi",
+    "week": 6,
+    "date": "2026-12-15",
+    "title": "Endurance varíee 40 min",
+    "type": "cardio",
+    "durationLabel": "45-50 min",
+    "durationMin": 48,
+    "description": "Respiration facile : utile pour la base aérobie.",
+    "advice": "Possibilite : remplacer les deux blocs de 15 min par 35-40 min de jogging dehors.",
+    "weekTheme": "Consolider le moteur aérobie",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-6-mardi-1",
+        "name": "Échauffement tapis",
+        "volume": "7 min",
+        "load": "0-2 %",
+        "description": "Marche puis petit trot.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-mardi-2",
+        "name": "Marche en pente",
+        "volume": "15 min",
+        "load": "6-9 % / RPE 4-5",
+        "description": "Allure ou la conversation reste possible.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-mardi-3",
+        "name": "Jogging facile ou elliptique",
+        "volume": "15 min",
+        "load": "RPE 4-5",
+        "description": "Choisir l'engin le plus agreable.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-mardi-4",
+        "name": "Retour au calme",
+        "volume": "5 min",
+        "load": "0 %",
+        "description": "Marche lente.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-mardi-5",
+        "name": "Reverse crunch",
+        "volume": "2 x 12",
+        "load": "poids du corps",
+        "description": "Soulever doucement le bassin, puis redescendre.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-mardi-6",
+        "name": "Pallof press",
+        "volume": "2 x 12 / côté",
+        "load": "5-12 kg*",
+        "description": "Refuser la rotation sous la traction de la poulie.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s6-jeudi",
+    "week": 6,
+    "date": "2026-12-17",
+    "title": "Bas du corps F",
+    "type": "force",
+    "durationLabel": "55 min",
+    "durationMin": 55,
+    "description": "Poussee de hanches + mouvements unilateraux.",
+    "advice": "Volume important sur les jambes : retire un exercice unilateral si ski ce week-end.",
+    "weekTheme": "Consolider le moteur aérobie",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-6-jeudi-1",
+        "name": "Goblet squat",
+        "volume": "3 x 10",
+        "load": "10-20 kg total",
+        "description": "Pied entier au sol, buste gaine.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-jeudi-2",
+        "name": "Hip thrust",
+        "volume": "3 x 10",
+        "load": "20-50 kg total",
+        "description": "Terminer avec fessiers, pas avec les lombaires.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-jeudi-3",
+        "name": "Step-up halteres",
+        "volume": "3 x 10 / jambe",
+        "load": "0-8 kg / main",
+        "description": "Lever le corps avec la jambe sur le banc.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Garder les hanches posees.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "2 x 15",
+        "load": "poids du corps, puis +",
+        "description": "Lever et abaisser sans rebond.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-jeudi-6",
+        "name": "Step-down bas",
+        "volume": "2 x 8 / jambe",
+        "load": "poids du corps",
+        "description": "Genou suit la ligne du pied, mouvement lent.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s6-vendredi",
+    "week": 6,
+    "date": "2026-12-18",
+    "title": "Full body léger D",
+    "type": "mixte",
+    "durationLabel": "45 min",
+    "durationMin": 45,
+    "description": "Circuit simple et cardio sans fatigue excessive.",
+    "advice": "En période de fatigue ou de fêtes : cette séance est la première a supprimer.",
+    "weekTheme": "Consolider le moteur aérobie",
+    "day": "VENDREDI",
+    "exercises": [
+      {
+        "id": "ex-6-vendredi-1",
+        "name": "Chest press machine",
+        "volume": "2 x 12",
+        "load": "15-35 kg*",
+        "description": "Mouvement complet, épaules stables.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-vendredi-2",
+        "name": "Rowing assis poulie",
+        "volume": "2 x 12",
+        "load": "20-40 kg*",
+        "description": "Contrôler la traction et le retour.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-vendredi-3",
+        "name": "Souleve roumain léger",
+        "volume": "2 x 12",
+        "load": "10-18 kg / main",
+        "description": "Mettre l'accent sur le geste, pas sur la charge.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-vendredi-4",
+        "name": "Elevations laterales",
+        "volume": "2 x 15",
+        "load": "3-7 kg / main",
+        "description": "Rester souple et contrôle.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-vendredi-5",
+        "name": "Crunch poulie",
+        "volume": "2 x 12",
+        "load": "8-20 kg*",
+        "description": "Enrouler le tronc sans tirer avec les mains.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-6-vendredi-6",
+        "name": "Velo facile",
+        "volume": "12 min",
+        "load": "RPE 3-4/10",
+        "description": "Garder les jambes fraiches pour le ski.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s7-lundi",
+    "week": 7,
+    "date": "2026-12-21",
+    "title": "Haut du corps G",
+    "type": "force",
+    "durationLabel": "55 min",
+    "durationMin": 55,
+    "description": "Comparer les charges a S3 et S5.",
+    "advice": "Tu peux viser une petite amélioration, mais pas de record maximal.",
+    "weekTheme": "Semaine solide, mais pas maximale",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-7-lundi-1",
+        "name": "Développé couche barre",
+        "volume": "3 x 8",
+        "load": "20-40 kg total",
+        "description": "Même placement et amplitude qu'en S3.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-lundi-2",
+        "name": "Rowing assis poulie",
+        "volume": "3 x 8-10",
+        "load": "20-40 kg*",
+        "description": "Tirer puissamment mais sans balancer.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": 10
+      },
+      {
+        "id": "ex-7-lundi-3",
+        "name": "Développé incline halteres",
+        "volume": "2 x 10",
+        "load": "8-14 kg / main",
+        "description": "Banc faiblement incline, descente contrôlée.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-lundi-4",
+        "name": "Tirage vertical",
+        "volume": "2 x 10",
+        "load": "20-45 kg*",
+        "description": "Tirer les coudes sans renverser le buste.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-lundi-5",
+        "name": "Elevations laterales",
+        "volume": "2 x 15",
+        "load": "3-7 kg / main",
+        "description": "Le bras ne depasse pas nettement l'épaule.",
+        "sets": 2,
+        "reps": 15,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-lundi-6",
+        "name": "Curl biceps",
+        "volume": "2 x 12",
+        "load": "6-12 kg / main",
+        "description": "Contrôle, pas de balancement.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-lundi-7",
+        "name": "Triceps corde",
+        "volume": "2 x 12",
+        "load": "8-20 kg*",
+        "description": "Coudes immobiles, extension totale confortable.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s7-mardi",
+    "week": 7,
+    "date": "2026-12-22",
+    "title": "Intervalles en côté sur tapis #3",
+    "type": "cardio",
+    "durationLabel": "45 min",
+    "durationMin": 45,
+    "description": "Accent montagne, effort soutenu mais maîtrise.",
+    "advice": "Si les mollets / tendons d'Achille sont sensibles, reste a 0-1 % d'inclinaison.",
+    "weekTheme": "Semaine solide, mais pas maximale",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-7-mardi-1",
+        "name": "Échauffement",
+        "volume": "10 min",
+        "load": "0-2 %",
+        "description": "Jogging progressif ou marche rapide.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-mardi-2",
+        "name": "Course en pente",
+        "volume": "6 x (1:30 + 2 min)",
+        "load": "1:30 a 3-5 % RPE 7; 2 min plat facile",
+        "description": "Vitesse diminuee avec l'inclinaison; rester fluide.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-mardi-3",
+        "name": "Retour au calme",
+        "volume": "7 min",
+        "load": "0 %",
+        "description": "Marcher ou trottiner aisement.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-mardi-4",
+        "name": "Planche avant",
+        "volume": "2 x 45 s",
+        "load": "poids du corps",
+        "description": "Bassin aligné et souffle stable.",
+        "sets": 2,
+        "reps": 45,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-mardi-5",
+        "name": "Pallof press",
+        "volume": "2 x 10 / côté",
+        "load": "5-12 kg*",
+        "description": "Ne pas tourner les épaules quand tu tends les bras.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s7-jeudi",
+    "week": 7,
+    "date": "2026-12-24",
+    "title": "Bas du corps G",
+    "type": "force",
+    "durationLabel": "50-55 min",
+    "durationMin": 52,
+    "description": "Entretien de force + descente contrôlée.",
+    "advice": "Ski intense prévu ? Supprime les fentes et step-downs cette semaine.",
+    "weekTheme": "Semaine solide, mais pas maximale",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-7-jeudi-1",
+        "name": "Presse a jambes",
+        "volume": "3 x 10",
+        "load": "variable selon machine",
+        "description": "Amplitude confortable et descendue lente.",
+        "sets": 3,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-jeudi-2",
+        "name": "Souleve de terre roumain",
+        "volume": "3 x 8",
+        "load": "10-18 kg / main",
+        "description": "Garder les halteres proches des tibias.",
+        "sets": 3,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-jeudi-3",
+        "name": "Fente arrière",
+        "volume": "2 x 10 / jambe",
+        "load": "0-8 kg / main",
+        "description": "Pas en arrière assez long; pousser sur l'avant.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 10",
+        "load": "10-30 kg*",
+        "description": "Retour en 2 secondes.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "3 x 12",
+        "load": "poids du corps, puis +",
+        "description": "Pleine amplitude sans rebond.",
+        "sets": 3,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-jeudi-6",
+        "name": "Step-down bas",
+        "volume": "2 x 10 / jambe",
+        "load": "poids du corps",
+        "description": "Descente lente, genou stable.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s7-vendredi",
+    "week": 7,
+    "date": "2026-12-25",
+    "title": "Full body léger E",
+    "type": "mixte",
+    "durationLabel": "45 min",
+    "durationMin": 45,
+    "description": "Dernier complement, plus facile que lundi/jeudi.",
+    "advice": "Si fatigue des fêtes ou grosse journee de ski : supprimer le goblet squat et/ou la séance.",
+    "weekTheme": "Semaine solide, mais pas maximale",
+    "day": "VENDREDI",
+    "exercises": [
+      {
+        "id": "ex-7-vendredi-1",
+        "name": "Tractions assistées",
+        "volume": "2 x 8",
+        "load": "assistance a ajuster",
+        "description": "Garder une assistance assez haute pour une bonne forme.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-vendredi-2",
+        "name": "Développé épaules halteres",
+        "volume": "2 x 10",
+        "load": "6-12 kg / main",
+        "description": "Pousser sans tricher avec les jambes.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-vendredi-3",
+        "name": "Goblet squat léger",
+        "volume": "2 x 12",
+        "load": "10-20 kg total",
+        "description": "Rester franchement loin de l'échec.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-vendredi-4",
+        "name": "Rowing un bras",
+        "volume": "2 x 12 / bras",
+        "load": "10-20 kg / main",
+        "description": "Tirer lentement, dos neutre.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-vendredi-5",
+        "name": "Bird dog",
+        "volume": "2 x 10 / côté",
+        "load": "poids du corps",
+        "description": "Opposes bras-jambe, bassin fixe.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-7-vendredi-6",
+        "name": "Rameur facile",
+        "volume": "12 min",
+        "load": "RPE 3-4/10",
+        "description": "Pousser avec les jambes puis tirer les bras; retour inverse.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s8-lundi",
+    "week": 8,
+    "date": "2026-12-28",
+    "title": "Haut du corps allege",
+    "type": "force",
+    "durationLabel": "35-40 min",
+    "durationMin": 38,
+    "description": "Même gestes, moins de fatigue.",
+    "advice": "Séance moins longue : tu dois finir plus frais qu'en entrant.",
+    "weekTheme": "Assimiler et faire le bilan",
+    "day": "LUNDI",
+    "exercises": [
+      {
+        "id": "ex-8-lundi-1",
+        "name": "Développé couche halteres",
+        "volume": "2 x 10",
+        "load": "8-16 kg / main",
+        "description": "Utiliser ~10-20 % moins lourd que S6 si necessaire.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-lundi-2",
+        "name": "Tirage vertical",
+        "volume": "2 x 10",
+        "load": "20-45 kg*",
+        "description": "Execution propre et fluide.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-lundi-3",
+        "name": "Rowing assis",
+        "volume": "2 x 12",
+        "load": "20-40 kg*",
+        "description": "Rester loin de l'échec musculaire.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-lundi-4",
+        "name": "Elevations laterales",
+        "volume": "2 x 12",
+        "load": "3-7 kg / main",
+        "description": "Léger, sans elan.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-lundi-5",
+        "name": "Curl biceps",
+        "volume": "1 x 12",
+        "load": "6-12 kg / main",
+        "description": "Série facile, purement entretien.",
+        "sets": 1,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-lundi-6",
+        "name": "Triceps corde",
+        "volume": "1 x 12",
+        "load": "8-20 kg*",
+        "description": "Série facile, respiration naturelle.",
+        "sets": 1,
+        "reps": 12,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s8-mardi",
+    "week": 8,
+    "date": "2026-12-29",
+    "title": "Cardio facile + point de repère",
+    "type": "cardio",
+    "durationLabel": "40-45 min",
+    "durationMin": 42,
+    "description": "Observer la facilite de l'effort plutot que chercher un record.",
+    "advice": "Note vitesse moyenne, RPE et aisance respiratoire pour comparer a tes premières semaines.",
+    "weekTheme": "Assimiler et faire le bilan",
+    "day": "MARDI",
+    "exercises": [
+      {
+        "id": "ex-8-mardi-1",
+        "name": "Échauffement",
+        "volume": "6 min",
+        "load": "0-1 %",
+        "description": "Marche puis jogging progressif.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-mardi-2",
+        "name": "Jogging continu facile",
+        "volume": "25 min",
+        "load": "1 % / RPE 4-5",
+        "description": "Retenir vitesse et souffle; pouvoir parler.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-mardi-3",
+        "name": "Retour au calme",
+        "volume": "4 min",
+        "load": "0 %",
+        "description": "Marcher et récupérer.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-mardi-4",
+        "name": "Planche avant",
+        "volume": "2 x 35 s",
+        "load": "poids du corps",
+        "description": "Garder une position régulière.",
+        "sets": 2,
+        "reps": 35,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-mardi-5",
+        "name": "Dead bug",
+        "volume": "2 x 8 / côté",
+        "load": "poids du corps",
+        "description": "Mouvement propre, respiration lente.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s8-jeudi",
+    "week": 8,
+    "date": "2026-12-31",
+    "title": "Bas du corps allege",
+    "type": "force",
+    "durationLabel": "40-45 min",
+    "durationMin": 42,
+    "description": "Éviter toute fatigue residuelle.",
+    "advice": "Pas de step-down cette semaine.",
+    "weekTheme": "Assimiler et faire le bilan",
+    "day": "JEUDI",
+    "exercises": [
+      {
+        "id": "ex-8-jeudi-1",
+        "name": "Presse a jambes",
+        "volume": "2 x 10",
+        "load": "variable selon machine",
+        "description": "Charge ~10-20 % sous S7; amplitude stable.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-jeudi-2",
+        "name": "Souleve de terre roumain",
+        "volume": "2 x 10",
+        "load": "10-18 kg / main",
+        "description": "Charge facile, contrôle du bassin.",
+        "sets": 2,
+        "reps": 10,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-jeudi-3",
+        "name": "Step-up sans charge",
+        "volume": "2 x 8 / jambe",
+        "load": "poids du corps",
+        "description": "Banc bas, appui du pied entier.",
+        "sets": 2,
+        "reps": 8,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-jeudi-4",
+        "name": "Leg curl",
+        "volume": "2 x 12",
+        "load": "10-30 kg*",
+        "description": "Aucun effort a l'échec.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-jeudi-5",
+        "name": "Mollets debout",
+        "volume": "2 x 12",
+        "load": "poids du corps, puis +",
+        "description": "Descendre lentement.",
+        "sets": 2,
+        "reps": 12,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-jeudi-6",
+        "name": "Planche laterale",
+        "volume": "2 x 25 s / côté",
+        "load": "poids du corps",
+        "description": "Rester aligné et respirer.",
+        "sets": 2,
+        "reps": 25,
+        "repsMax": null
+      }
+    ]
+  },
+  {
+    "id": "programme-s8-vendredi",
+    "week": 8,
+    "date": "2027-01-01",
+    "title": "(FACULTATIF)    Récupération active",
+    "type": "mixte",
+    "durationLabel": "25-35 min",
+    "durationMin": 30,
+    "description": "A choisir seulement si tu en as envie.",
+    "advice": "Pas de recherche de performance. Le repos complet est une option equivalente.",
+    "weekTheme": "Assimiler et faire le bilan",
+    "day": "VENDREDI",
+    "exercises": [
+      {
+        "id": "ex-8-vendredi-1",
+        "name": "Velo ou elliptique",
+        "volume": "15-20 min",
+        "load": "RPE 3/10",
+        "description": "Souffle très facile.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-vendredi-2",
+        "name": "Mobilité hanches / chevilles",
+        "volume": "8 min",
+        "load": "mouvements doux",
+        "description": "Flexions de chevilles, ouverture de hanche sans forcer.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-vendredi-3",
+        "name": "Mobilité haut du dos",
+        "volume": "5 min",
+        "load": "mouvements doux",
+        "description": "Rotations thoraciques lentes et contrôlées.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      },
+      {
+        "id": "ex-8-vendredi-4",
+        "name": "Marche facile",
+        "volume": "10 min",
+        "load": "facultatif",
+        "description": "Terminer detendu.",
+        "sets": null,
+        "reps": null,
+        "repsMax": null
+      }
+    ]
+  }
+]
