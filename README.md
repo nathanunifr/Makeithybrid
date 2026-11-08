@@ -3,6 +3,17 @@
 **Version initiale : 1.0 (novembre 2026)**  
 Application web installable (PWA), sans abonnement ni bibliothèque externe.
 
+
+## Nouveau : thème forêt et guides d'exercices
+
+- Palette vert forêt, sauge et tons naturels, sans accent fluo.
+- Dans **Planning → séance** ou **Séances → bibliothèque**, toucher **Photo / vidéo** à côté d'un exercice.
+- Des photos de deux positions sont disponibles pour **49 exercices distincts** du programme, avec certains doublons/variantes ; les mouvements sans illustration restent accessibles au journal d'entraînement.
+- Des vidéos de démonstration sélectionnées sont disponibles pour le développé couché barre, le tirage vertical, le rowing un bras, le soulevé de terre roumain et le goblet squat ; elles ne sont chargées qu'après un clic.
+- Dans une fiche, déplier **Ajouter ou modifier une photo / vidéo** pour coller l'URL HTTPS d'une image ou d'une vidéo YouTube/MP4/WebM. Les liens personnalisés restent sur le même appareil, avec la sauvegarde JSON.
+- Les photos proviennent de [Free Exercise DB](https://github.com/yuhonas/free-exercise-db) (Unlicense / domaine public), et sont chargées depuis son dépôt uniquement à l'ouverture du guide. Nécessite Internet pour consulter les médias externes ; vérifier les licences de tout média personnalisé.
+- Ouvrir YouTube peut transmettre des données techniques au fournisseur vidéo ; aucun lecteur YouTube n'est chargé avant l'action de lecture.
+
 ## Ce qui est déjà inclus
 
 - **30 séances préchargées** du programme hybride du 9 novembre 2026 au 3 janvier 2027, avec **175 exercices** et leurs consignes, volumes et charges indicatives.
