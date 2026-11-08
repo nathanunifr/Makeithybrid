@@ -19,3 +19,23 @@ export function chartPolyline(points,width=300,height=115,pad=12){if(!points.len
  const vals=points.map(p=>Number(p.value)||0),lo=Math.min(...vals),hi=Math.max(...vals),range=hi-lo||1;
  return points.map((p,i)=>`${pad+(i/(Math.max(points.length-1,1)))*(width-pad*2)},${height-pad-((p.value-lo)/range)*(height-pad*2)}`).join(' ');
 }
+
+/** Déplace une seule fois les séances planifiées du mardi au mercredi.
+ * Ne modifie jamais les logs : leurs dates reflètent les entraînements effectivement réalisés.
+ * Conserve tous les IDs pour préserver les liens avec l'historique et les séries.
+ */
+export const WEDNESDAY_SCHEDULE_MIGRATION='tuesday-to-wednesday-20261109';
+export function moveTuesdaysToWednesday(state){
+ if(!state||!Array.isArray(state.sessions))return 0;
+ if(!Array.isArray(state.scheduleMigrations))state.scheduleMigrations=[];
+ if(state.scheduleMigrations.includes(WEDNESDAY_SCHEDULE_MIGRATION))return 0;
+ let moved=0;
+ for(const s of state.sessions){
+   if(!s||typeof s.date!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(s.date)||localDate(s.date).getDay()!==2)continue;
+   s.date=shiftDay(s.date,1);
+   if(typeof s.day==='string'&&/^mardi$/i.test(s.day.trim()))s.day=s.day.trim()==='MARDI'?'MERCREDI':'Mercredi';
+   moved++;
+ }
+ state.scheduleMigrations.push(WEDNESDAY_SCHEDULE_MIGRATION);
+ return moved;
+}
