@@ -11,13 +11,13 @@
   "theme_color": "#111b16",
   "icons": [
     {
-      "src": "./public/icon.svg",
+      "src": "./public/icon.svg?v=mountain-logo-20261109-v1",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "./public/icon-apple.png",
+      "src": "./public/icon-apple.png?v=mountain-logo-20261109-v1",
       "sizes": "180x180",
       "type": "image/png"
     }
