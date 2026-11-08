@@ -1,4 +1,4 @@
-# HybridTrack — ton carnet d'entraînement sur iPhone
+# MakeItHybrid — ton carnet d'entraînement sur iPhone
 
 **Version initiale : 1.0 (novembre 2026)**  
 Application web installable (PWA), sans abonnement ni bibliothèque externe.
@@ -22,7 +22,7 @@ L'application a été conçue pour **une seule personne, un seul appareil à la 
 
 ### Étape 1 : mettre l'application en ligne gratuitement
 
-1. Télécharge l'archive ZIP **HybridTrack-iPhone.zip**.
+1. Télécharge l'archive ZIP **MakeItHybrid-iPhone.zip**.
 2. Depuis un ordinateur, ouvre **https://app.netlify.com/drop**.
 3. Glisse directement le fichier ZIP sur la zone de dépôt (ou extrais l'archive puis dépose son dossier). Le ZIP contient `index.html` à sa racine : tu n'as rien à compiler.
 4. Netlify te fournit une adresse `https://...netlify.app`.
@@ -36,7 +36,7 @@ L'application a été conçue pour **une seule personne, un seul appareil à la 
 2. Touche **Partager** → **Sur l'écran d'accueil**.
 3. Active **Ouvrir comme app web** si cette option apparaît.
 4. Touche **Ajouter**.
-5. Lance HybridTrack depuis son icône sur ton écran d'accueil.
+5. Lance MakeItHybrid depuis son icône sur ton écran d'accueil.
 
 Référence Apple : https://support.apple.com/guide/iphone/open-as-web-app-iphea86e5236/ios
 
@@ -59,7 +59,7 @@ Référence Apple : https://support.apple.com/guide/iphone/open-as-web-app-iphea
 ## Limites actuelles
 
 - Ce n'est **pas** une application native publiée dans l'App Store : il s'agit d'une PWA installée sur l'écran d'accueil.
-- Les sons, vibrations, notifications et minuteurs d'intervalles ne sont **pas fiables en arrière-plan sur iOS**. Laisse HybridTrack ouverte au premier plan pendant les intervalles. Le chronomètre recalcule le temps écoulé lorsque tu reviens dans l'app, sans garantir les alertes manquées.
+- Les sons, vibrations, notifications et minuteurs d'intervalles ne sont **pas fiables en arrière-plan sur iOS**. Laisse MakeItHybrid ouverte au premier plan pendant les intervalles. Le chronomètre recalcule le temps écoulé lorsque tu reviens dans l'app, sans garantir les alertes manquées.
 - Pas d'intégration GPS, Apple Santé, Polar, Garmin ou Strava.
 - Pas de synchronisation cloud multi-appareils.
 - Les descriptions d'exercices sont incluses ; **pas encore de photos/vidéos d'exercices**.
